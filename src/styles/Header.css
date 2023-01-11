@@ -1,0 +1,19 @@
+.header-div {
+    background-color: rgb(195, 230, 121);
+    display: flex;
+    padding: 0px;
+    margin: 30px;
+}
+
+.header-div-img {
+    height: 120px;
+}
+
+.header-div-h2 {
+    margin-top: 35px;
+}
+
+.header-div-h4 {
+    margin-top: 65px;
+    margin-left: 400px;
+}
